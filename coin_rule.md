@@ -2,15 +2,15 @@ Gold is a virtual currency established by OtakuRoom to motivate users to stay on
 
 #### **How to get gold coins**
 You can get gold coins by staying online. According to the weekly online time, it is divided into 3 different stages, and you can get up to 4320 gold coins every week.
-1) Stage 1: Get **2.0** gold coins per minute. In this stage, you can get a maximum of **1440** gold coins per week. After stage 1 ends, you will enter stage 2.
-2) Stage 2: Get **1.0** gold coins per minute. In this stage, you can get a maximum of **1440** gold coins per week. After stage 2 ends, you will enter stage 3.
-3) Stage 3: Get **0.5** gold coins per minute, and get a maximum of **1440** gold coins per week in this stage. Stop earning coins after phase 3 ends.
+* Stage 1: Get **2.0** gold coins per minute. In this stage, you can get a maximum of **1440** gold coins per week. After stage 1 ends, you will enter stage 2.
+* Stage 2: Get **1.0** gold coins per minute. In this stage, you can get a maximum of **1440** gold coins per week. After stage 2 ends, you will enter stage 3.
+* Stage 3: Get **0.5** gold coins per minute, and get a maximum of **1440** gold coins per week in this stage. Stop earning coins after phase 3 ends.
 
 #### **How to unlock maximum available stages**
 In addition to online time, the user's network type will also affect the sharing stability of distributed network data. Therefore, the gold coin system also unlocks available gold coin acquisition stages according to your network type:
-1) Stage 1: **Symmetric NAT** and above are available, this network type **cannot** perform distributed data sharing.
-2) Phase 2: **Private network** and above are available, this network type can **limited** support distributed data sharing.
-3) Stage 3: **Public network** is available, and this network type can **stable** support distributed data sharing.
+* Stage 1: **Symmetric NAT** and above are available, this network type **cannot** perform distributed data sharing.
+* Stage 2: **Private network** and above are available, this network type can **limited** support distributed data sharing.
+* Stage 3: **Public network** is available, and this network type can **stable** support distributed data sharing.
 > Private network refers to NAT networks other than symmetric, including full cone NAT, restricted cone NAT, and port restricted cone NAT.
 
 #### **How to improve the NAT type**
