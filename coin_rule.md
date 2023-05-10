@@ -1,10 +1,10 @@
-Gold is a virtual currency established by OtakuRoom to motivate users to stay online and share distributed network data. You can get gold coins by staying online and improving your network type, and use gold coins to browse and download resources in the creative workshop. The gold coin system is intended to improve the distributed network environment of the software and increase user loyalty and satisfaction.
+Gold coin is a virtual currency established by OtakuRoom to motivate users to stay online and share distributed network data. You can get gold coins by staying online and improving your network type, and use gold coins to browse and download resources in the creative workshop. The gold coin system is intended to improve the distributed network environment of the software and increase user loyalty and satisfaction.
 
 #### **How to get gold coins**
 You can get gold coins by staying online. According to the weekly online time, it is divided into 3 different stages, and you can get up to 4320 gold coins every week.
 * Stage 1: Get **2.0** gold coins per minute. In this stage, you can get a maximum of **1440** gold coins per week. After stage 1 ends, you will enter stage 2.
 * Stage 2: Get **1.0** gold coins per minute. In this stage, you can get a maximum of **1440** gold coins per week. After stage 2 ends, you will enter stage 3.
-* Stage 3: Get **0.5** gold coins per minute, and get a maximum of **1440** gold coins per week in this stage. Stop earning coins after phase 3 ends.
+* Stage 3: Get **0.5** gold coins per minute, and get a maximum of **1440** gold coins per week in this stage. Stop earning coins after stage 3 ends.
 
 #### **How to unlock maximum available stages**
 In addition to online time, the user's network type will also affect the sharing stability of distributed network data. Therefore, the gold coin system also unlocks available gold coin acquisition stages according to your network type:
